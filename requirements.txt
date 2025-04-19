@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+docx2txt
+pdfplumber
+openai
+streamlit
+requests
+pytest
+python-dotenv
+scikit-learn
+python-docx
+python-multipart
+ollama

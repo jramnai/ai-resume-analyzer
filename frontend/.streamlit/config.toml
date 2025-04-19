@@ -1,0 +1,11 @@
+[server]
+headless = true                # Don't open browser automatically
+maxUploadSize = 5              # Max file upload size (MB)
+
+[browser]
+gatherUsageStats = false       # Disable telemetry
+serverAddress = "localhost"    # Where browser connects to app
+
+[client]
+toolbarMode = "minimal"        # Options: "auto", "minimal", "developer"
+showErrorDetails = false       # Show stack traces on errors
